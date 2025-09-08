@@ -1,5 +1,5 @@
 import swiggy from "../assets/swiggyPic.jpg"
-import coding from '../assets/Coding-Background.jpg'
+import coding from '../assets/Coding-background.jpg'
 import { FiExternalLink } from "react-icons/fi";
 
 export default function ProjectsPage(){
