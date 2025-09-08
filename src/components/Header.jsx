@@ -2,7 +2,7 @@ import { useState } from 'react';
 import {Link} from 'react-scroll'
 import { AiOutlineMenu } from "react-icons/ai";
 import { IoCloseSharp } from "react-icons/io5";
-import image from '../assets/profile4.png'
+import image from '../assets/profile3.jpeg'
 import { CiLight } from "react-icons/ci";
 // import { useSelector } from 'react-redux';
 import { turnColor } from '../GlobalStore/ThemeSlicer';
