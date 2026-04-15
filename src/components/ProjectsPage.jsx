@@ -1,5 +1,6 @@
 import swiggy from "../assets/swiggyPic.jpg"
 import coding from '../assets/Coding-background.jpg'
+import snapAi from '../assets/snapAi_thumbnail.png'
 import { FiExternalLink } from "react-icons/fi";
 
 export default function ProjectsPage(){
@@ -20,11 +21,11 @@ export default function ProjectsPage(){
                         </div>
                     </div>
                     <div className="pcard">
-                        <img src={coding} alt="" className="cardImage" />
+                        <img src={snapAi} alt="" className="cardImage" />
                         <div className="hiddenCard">
-                            <h3>CodeQuest</h3>
-                            <p>A web-based coding platform that allows users to solve algorithmic challenges, track progress, and improve problem-solving skills. It mimics the functionality of popular competitive programming platforms with an intuitive interface and real-time code evaluation.</p>
-                            <a href="">
+                            <h3>SnapAI</h3>
+                            <p>An AI-powered web application that provides tools for article writing, blog title generation, AI image creation, and resume analysis. Built with a full-stack architecture and integrated AI services for automated content and image processing.</p>
+                            <a href="https://snap-ai-beta.vercel.app/">
                                 <FiExternalLink size={24} color="#3b82f6" className="openIcon" />
                             </a>
                         </div>

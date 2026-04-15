@@ -1,4 +1,4 @@
-import resume from '../assets/resume.pdf' 
+import resume from '../assets/IshitaResume3.pdf' 
 import { FaInstagram, FaGithub, FaLinkedin   } from "react-icons/fa";
 import image from '../assets/profile3.jpeg'
 import { ReactTyped } from "react-typed";
