@@ -6,7 +6,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FF4949)]()
 
-🌐 **Live Preview**: [https://snap-ai-beta.vercel.app/](https://ishita-dev.vercel.app/)
+🌐 **Live Preview**: [https://ishita-dev.vercel.app/](https://ishita-dev.vercel.app/)
 
 A personal portfolio website built with React, Node.js, and CSS, showcasing my projects, skills, and experience.
 
